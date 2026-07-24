@@ -1,5 +1,4 @@
 
-```markdown
 # Nano Configuration
 
 This is a custom `~/.nanorc` configuration that upgrades GNU nano with modern text editor features, UI improvements, and safety backups.
@@ -8,7 +7,6 @@ This is a custom `~/.nanorc` configuration that upgrades GNU nano with modern te
 1. Open your terminal and create a directory for your backups:
    ```bash
    mkdir -p ~/.nano-backups
-
 ```
 
 2. Open your configuration file:
@@ -18,7 +16,7 @@ nano ~/.nanorc
 ```
 
 
-3. Paste the configuration block below into the file.
+3. Paste the block below into the file.
 
 ## The Configuration
 
@@ -60,10 +58,6 @@ include "/usr/share/nano/*.nanorc"
 1. Press `Ctrl + O` to save the file.
 2. Press `Enter` to confirm the file name.
 3. Press `Ctrl + X` to exit the editor.
-
-```
-
-```
 
 ### Basic Editor Features
 
