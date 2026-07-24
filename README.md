@@ -6,15 +6,14 @@ This is a custom `~/.nanorc` configuration that upgrades GNU nano with modern te
 ## Installation
 1. Open your terminal and create a directory for your backups:
    ```bash
-   mkdir -p ~/.nano-backups
-```
+       mkdir -p ~/.nano-backups
+   ```
 
 2. Open your configuration file:
-```bash
-nano ~/.nanorc
+    ```bash
+       nano ~/.nanorc
 
-```
-
+    ```
 
 3. Paste the block below into the file.
 
